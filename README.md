@@ -21,13 +21,13 @@ Land my first SOC Analyst position with a solid foundation in:
 
 | Area                  | Tools / Knowledge                          |
 |-----------------------|--------------------------------------------|
-| SIEM                  | Wazuh, Microsoft Sentinel                  |
+| SIEM                  | Wazuh, Simulator in Try hack me            |
 | IDS/IPS               | Suricata                                   |
 | Network Analysis      | Wireshark, Nmap, Hping3                    |
 | Frameworks            | MITRE ATT&CK                               |
 | Operating Systems     | Kali Linux, Ubuntu Server, Windows         |
 | Networking            | TCP/IP, DNS, HTTP, Ports, Routing          |
-| Documentation         | Obsidian, Markdown, GitHub                 |
+| Documentation         | Obsidian, GitHub                           |
 | Practice Platforms    | LetsDefend, TryHackMe                      |
 
 ---
