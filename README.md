@@ -21,7 +21,7 @@ Land my first SOC Analyst position with a solid foundation in:
 
 | Area                  | Tools / Knowledge                          |
 |-----------------------|--------------------------------------------|
-| SIEM                  | Wazuh, Simulator in Try hack me            |
+| SIEM                  | Wazuh, TryHackMe SIEM                      |
 | IDS/IPS               | Suricata                                   |
 | Network Analysis      | Wireshark, Nmap, Hping3                    |
 | Frameworks            | MITRE ATT&CK                               |
