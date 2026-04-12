@@ -7,7 +7,7 @@ my first role as a SOC Analyst Tier 1.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 Land my first SOC Analyst position with a solid foundation in:
 - Security event monitoring and analysis
@@ -17,7 +17,7 @@ Land my first SOC Analyst position with a solid foundation in:
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 | Area                  | Tools / Knowledge                          |
 |-----------------------|--------------------------------------------|
@@ -32,7 +32,7 @@ Land my first SOC Analyst position with a solid foundation in:
 
 ---
 
-## 📜 Certifications & Badges
+## Certifications & Badges
 
 | Credential                                    | Issuer | Date          |
 |-----------------------------------------------|--------|---------------|
@@ -45,7 +45,7 @@ Land my first SOC Analyst position with a solid foundation in:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | Folder                  | Content                                        |
 |-------------------------|------------------------------------------------|
@@ -57,7 +57,7 @@ Land my first SOC Analyst position with a solid foundation in:
 
 ---
 
-## 🔭 Currently working on
+## Currently working on
 
 - Expanding MITRE ATT&CK documentation from lab observations
 - Completing SOC analyst path on LetsDefend
@@ -65,7 +65,7 @@ Land my first SOC Analyst position with a solid foundation in:
 
 ---
 
-## 📬 Connect with me
+## Connect with me
 
 > This repository is a living document.
 > It grows every time I learn something new.
