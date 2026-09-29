@@ -13,7 +13,7 @@ Land my first SOC Analyst position with a solid foundation in:
 - Security event monitoring and analysis
 - Threat detection using SIEM and IDS tools
 - MITRE ATT&CK framework applied to real scenarios
-- Network fundamentals at a professional level (CCNA)
+- Strong networking fundamentals based on Cisco CCNA training
 
 ---
 
